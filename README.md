@@ -15,7 +15,7 @@ Differential privacy learning and integration
 
 - [x] [DP算法详解的论文](https://github.com/Billy1900/Differential-Privacy/blob/master/The%20Algorithmic%20Foundations%20of%20Differential%20Privacy.pdf)
 
-- [ ] [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
+- [x] [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
 
 
 **了解基本原理后，向GNN和ML方向的DP靠**
