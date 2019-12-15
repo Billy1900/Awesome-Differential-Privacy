@@ -18,4 +18,4 @@ Differential privacy learning and integration
 - [ ] [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
 
 
-**了解基本原理后，向GNN和ML方向的DP靠
+**了解基本原理后，向GNN和ML方向的DP靠**
