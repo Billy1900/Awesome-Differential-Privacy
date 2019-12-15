@@ -11,8 +11,8 @@ Differential privacy learning and integration
   
 - [ ] [差分隐私论文合集](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
 
-- [ ] [A survey for DP 讲了DP的发展](https://github.com/Billy1900/Differential-Privacy/blob/master/Differentially%20Private%20Data%20Publishing%20and%20Analysis%20a%20Survey.pdf)
+- [x] [A survey for DP 讲了DP的发展](https://github.com/Billy1900/Differential-Privacy/blob/master/Differentially%20Private%20Data%20Publishing%20and%20Analysis%20a%20Survey.pdf)
 
-- [ ] [DP算法详解的论文](https://github.com/Billy1900/Differential-Privacy/blob/master/The%20Algorithmic%20Foundations%20of%20Differential%20Privacy.pdf)
+- [x] [DP算法详解的论文](https://github.com/Billy1900/Differential-Privacy/blob/master/The%20Algorithmic%20Foundations%20of%20Differential%20Privacy.pdf)
 
 - [ ] [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
