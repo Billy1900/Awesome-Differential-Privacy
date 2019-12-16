@@ -9,7 +9,9 @@ Differential privacy learning and integration
   - [x] [Privacy Amplification by Sampling and Renyi Differential Privacy](https://www.youtube.com/watch?v=0MAvz0YK5E4)
   - [x] [Differential Privacy - Simply Explained](https://www.youtube.com/watch?v=gI0wk1CXlsQ)
   
-- [ ] [差分隐私论文合集](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
+- [x] [**差分隐私论文合集**](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
+
+**论文合集里将是一些重点要读的东西**
 
 - [x] [A survey for DP 讲了DP的发展](https://github.com/Billy1900/Differential-Privacy/blob/master/Differentially%20Private%20Data%20Publishing%20and%20Analysis%20a%20Survey.pdf)
 
