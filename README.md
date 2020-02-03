@@ -3,10 +3,6 @@ Differential privacy learning and integration
 
 - [x] [**差分隐私论文合集**](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
 
-**论文合集里将是一些重点要读的东西，了解基本原理后，向GNN和ML方向的DP靠**
----------------------------------------------------------------------------------------------------------------------
-
-
 - [x] [differential privacy and application.pdf 一本比较全面的介绍书](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20application.pdf)
 
 - 视频
