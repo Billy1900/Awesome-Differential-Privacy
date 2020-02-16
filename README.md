@@ -4,6 +4,7 @@ Differential privacy learning and integration
 - [x] [**差分隐私论文合集**](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
 
 - [x] [differential privacy and application.pdf 一本比较全面的介绍书](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20application.pdf)
+- [x] [differential privacy and application读后笔记]()
 
 - 视频
   - [x] [Recent Development in Differential Privacy II](https://www.youtube.com/watch?v=3EpNKI2l-20)
