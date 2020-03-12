@@ -3,7 +3,7 @@
 Differential privacy learning and integration
 
 ## preliminary
-- [Differential privacy explaining](https://aircloak.com/explaining-differential-privacy/)
+- [x] [Differential privacy explaining](https://aircloak.com/explaining-differential-privacy/)
 - [x] [Differential Privacy - Simply Explained](https://www.youtube.com/watch?v=gI0wk1CXlsQ) 
 
 
