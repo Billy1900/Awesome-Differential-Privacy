@@ -8,7 +8,7 @@ Differential privacy learning and integration
 
 ## 2. Academic paper
 
-- Survey
+- 2.1 Survey
   - [The Algorithm foundation of Differential privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/The%20Algorithmic%20Foundations%20of%20Differential%20Privacy.pdf)
 
   - [Repository of paper on Differential Privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
@@ -18,6 +18,9 @@ Differential privacy learning and integration
     - [differential privacy and application读后笔记](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20its%20application.pdf)
 
   - [Differentially Private Data Publishing and Analysis: a Survey](https://github.com/Billy1900/Differential-Privacy/blob/master/Differentially%20Private%20Data%20Publishing%20and%20Analysis%20a%20Survey.pdf)
+
+- 2.2 Course
+  - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
 
 ## 3. Video
   - [Recent Development in Differential Privacy II](https://www.youtube.com/watch?v=3EpNKI2l-20)
