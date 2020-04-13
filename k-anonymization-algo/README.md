@@ -6,3 +6,7 @@ To protect respondents’ identity when releasing microdata, data holders often 
 ## 2. Configure
 
 You can run the code just by `python k_anonymity.py` or `python kanonymity_eval.py` in directory `src`. Python 3.7 or Python 2.7 was tested successfully.
+
+## 3. Theory
+
+the code is based on the algorithm proposed from this paper [Link](https://github.com/Billy1900/Differential-Privacy/blob/master/k-Anonymity.pdf)
