@@ -27,3 +27,4 @@ Differential privacy learning and integration
 
 ## Code
 - [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
+- [1. K-Anonymity Algorithm](https://github.com/Billy1900/Differential-Privacy/tree/master/k-anonymization-algo)
