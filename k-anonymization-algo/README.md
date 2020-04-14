@@ -11,5 +11,8 @@ To protect respondents’ identity when releasing microdata, data holders often 
 
 ## 3. Theory
 
-The code is based on the algorithm proposed from this paper. [Link](https://github.com/Billy1900/Differential-Privacy/blob/master/k-Anonymity.pdf) 
+The code is based on the algorithm proposed from this paper.
+
+[k-Anonymity](https://github.com/Billy1900/Differential-Privacy/blob/master/k-Anonymity.pdf) 
+
 If you want get it more clearly, you must read this paper.
