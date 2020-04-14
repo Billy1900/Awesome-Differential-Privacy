@@ -29,6 +29,7 @@ Differential privacy learning and integration
   - [Privacy Amplification by Sampling and Renyi Differential Privacy](https://www.youtube.com/watch?v=0MAvz0YK5E4)
  
 
-## Code
+## 4. Code
 - [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
-- [1. K-Anonymity Algorithm](https://github.com/Billy1900/Differential-Privacy/tree/master/k-anonymization-algo)
+- [4.1 K-Anonymity Algorithm](https://github.com/Billy1900/Differential-Privacy/tree/master/k-anonymization-algo)
+- [4.2 Laplace and Exponential Mechanism](https://github.com/Billy1900/Differential-Privacy/tree/master/Laplace%26Exponetial)
