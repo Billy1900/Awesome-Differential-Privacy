@@ -1,0 +1,16 @@
+Preschool,PrimarySchool,CompulsorySchool,BasicDegree,Educated
+1st-4th,PrimarySchool,CompulsorySchool,BasicDegree,Educated
+5th-6th,PrimarySchool,CompulsorySchool,BasicDegree,Educated
+7th-8th,MiddleSchool,CompulsorySchool,BasicDegree,Educated
+9th,MiddleSchool,CompulsorySchool,BasicDegree,Educated
+10th,HighSchool,AdvancedSchool,BasicDegree,Educated
+11th,HighSchool,AdvancedSchool,BasicDegree,Educated
+12th,HighSchool,AdvancedSchool,BasicDegree,Educated
+HS-grad,HighSchool,AdvancedSchool,BasicDegree,Educated
+Assoc-voc,VocDegree,AdvancedSchool,BasicDegree,Educated
+Prof-school,VocDegree,AdvancedSchool,BasicDegree,Educated
+Some-college,VocDegree,AdvancedSchool,BasicDegree,Educated
+Assoc-acdm,UndergradSchool,ProfSchool,AdvancedDegree,Educated
+Bachelors,UndergradSchool,ProfSchool,AdvancedDegree,Educated
+Masters,GradSchool,ProfSchool,AdvancedDegree,Educated
+Doctorate,GradSchool,ProfSchool,AdvancedDegree,Educated
