@@ -8,3 +8,7 @@ If you want to know more about the basic theory, I really recommend this paper.
 
 
 # 3. Exponential Mechanism
+
+If you want to know more about the basic theory, I really recommend this paper. 
+
+[Mechanism Design via Differential Privacy](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mdviadp.pdf)
