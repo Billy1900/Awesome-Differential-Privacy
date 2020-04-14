@@ -4,7 +4,7 @@ You can run the `differential_privacy.py` to evaluate both of mechanisms, or you
 # Laplace Mechanism
 If you want to know more about the basic theory, I really recommend this paper. 
 
-[Evaluating Laplace Noise Addition to Satisfy Differential Privacy for Numeric Data]()
+[Evaluating Laplace Noise Addition to Satisfy Differential Privacy for Numeric Data](http://www.tdp.cat/issues11/tdp.a064a10.pdf)
 
 
 # Exponential Mechanism
