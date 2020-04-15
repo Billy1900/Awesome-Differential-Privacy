@@ -24,7 +24,7 @@ Differential privacy learning and integration
 
 ### 2.2 Course
   - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
-
+  - [cs295-data-privacy](https://github.com/jnear/cs295-data-privacy)
 ## 3. Video
   - [Recent Development in Differential Privacy II](https://www.youtube.com/watch?v=3EpNKI2l-20)
   - [Recent Development in Differential Privacy I](https://www.youtube.com/watch?v=pWUgFHkfOO0)
@@ -42,3 +42,5 @@ Differential privacy learning and integration
 - [4.6 IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library)
 - [4.7 Facebook pytorch-dp: Train PyTorch models with Differential Privacy](https://github.com/facebookresearch/pytorch-dp)
 - [4.8 differential-privacy-federated-learning](https://github.com/gitgik/differential-privacy-federated-learning)
+- [4.9 PySyft: A library for encrypted, privacy preserving machine learning](https://github.com/OpenMined/PySyft)
+- [4.10 PyGrid: A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science](https://github.com/OpenMined/PyGrid/)
