@@ -6,9 +6,10 @@ Differential privacy learning and integration
 - [Differential privacy explaining](https://aircloak.com/explaining-differential-privacy/)
 - [Differential Privacy - Simply Explained](https://www.youtube.com/watch?v=gI0wk1CXlsQ) 
 - [Differential Privacy A Primer for a Non-technical Audience](https://github.com/Billy1900/Differential-Privacy/blob/master/Differential%20Privacy%20A%20Primer%20for%20a%20Non-technical%20Audience.pdf)
+- [Differential privacy introduction Reading (not so much mathematics, but intuition)](https://desfontain.es/privacy/)
+- [Laplacian Noisy Counting mechanism illustratioin](https://georgianpartners.shinyapps.io/interactive_counting/)
 
 ## 2. Academic paper
-
 ### 2.1 Survey
 - The Algorithm foundation of Differential Privacy
   - [The Algorithm foundation of Differential privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/The%20Algorithmic%20Foundations%20of%20Differential%20Privacy.pdf)
@@ -21,10 +22,10 @@ Differential privacy learning and integration
     - [Differential privacy and application Reading Notes](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20its%20application.pdf)
 
 - [Differentially Private Data Publishing and Analysis: a Survey](https://github.com/Billy1900/Differential-Privacy/blob/master/Differentially%20Private%20Data%20Publishing%20and%20Analysis%20a%20Survey.pdf)
-
 ### 2.2 Course
   - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
-  - [cs295-data-privacy](https://github.com/jnear/cs295-data-privacy)
+  - [cs295-data-privacy](https://github.com/jnear/cs295-data-privacy)  
+
 ## 3. Video
   - [Recent Development in Differential Privacy II](https://www.youtube.com/watch?v=3EpNKI2l-20)
   - [Recent Development in Differential Privacy I](https://www.youtube.com/watch?v=pWUgFHkfOO0)
@@ -33,7 +34,7 @@ Differential privacy learning and integration
  
 
 ## 4. Code
-- [代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
+- [4.0 代码实现DP算法](https://zhuanlan.zhihu.com/p/67761743)
 - [4.1 K-Anonymity Algorithm](https://github.com/Billy1900/Differential-Privacy/tree/master/k-anonymization-algo)
 - [4.2 Randomized response](http://ceur-ws.org/Vol-1558/paper35.pdf)
 - [4.3 Laplace and Exponential Mechanism](https://github.com/Billy1900/Differential-Privacy/tree/master/Laplace%26Exponetial)
