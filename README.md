@@ -5,7 +5,7 @@ Differential privacy learning and integration
 ## 1. Intuitive explanation
 - [Differential privacy explaining](https://aircloak.com/explaining-differential-privacy/)
 - [Differential Privacy - Simply Explained](https://www.youtube.com/watch?v=gI0wk1CXlsQ) 
-- [Differential Privacy A Primer for a Non-technical Audience](https://github.com/Billy1900/Differential-Privacy/blob/master/Differential%20Privacy%20A%20Primer%20for%20a%20Non-technical%20Audience.pdf)
+- [Differential Privacy A Primer for a Non-technical Audience](http://www.jetlaw.org/journal-archives/volume-21/volume-21-issue-1/differential-privacy-a-primer-for-a-non-technical-audience/)
 - [Differential privacy introduction Reading (not so much mathematics, but intuition)](https://desfontain.es/privacy/)
 - [Laplacian Noisy Counting mechanism illustratioin](https://georgianpartners.shinyapps.io/interactive_counting/)
 
