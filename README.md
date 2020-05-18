@@ -14,7 +14,7 @@ Differential privacy learning and integration
 - The Algorithm foundation of Differential Privacy
   - [The Algorithm foundation of Differential privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
   - [The Algorithmic Foundations of Privacy Reading community](https://github.com/AceEviliano/Differential-Privacy-Explained)
-
+- [the complexity of differential privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
 - [Repository of paper on Differential Privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
 
 - Differential privacy and application 
