@@ -23,8 +23,9 @@ Differential privacy learning and integration
 
 - [Differentially Private Data Publishing and Analysis: a Survey](https://ieeexplore.ieee.org/document/7911185)
 ### 2.2 Course
-  - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
-  - [cs295-data-privacy](https://github.com/jnear/cs295-data-privacy)  
+- [Seminar on differential privacy, Fall 19/20](http://www.cs.tau.ac.il/~haimk/privacy-seminar/main-page.html)
+- [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
+- [cs295-data-privacy](https://github.com/jnear/cs295-data-privacy)  
 
 ## 3. Video
   - [Recent Development in Differential Privacy II](https://www.youtube.com/watch?v=3EpNKI2l-20)
