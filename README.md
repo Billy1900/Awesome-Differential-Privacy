@@ -14,14 +14,14 @@ Differential privacy learning and integration
 - The Algorithm foundation of Differential Privacy
   - [The Algorithm foundation of Differential privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
   - [The Algorithmic Foundations of Privacy Reading community](https://github.com/AceEviliano/Differential-Privacy-Explained)
-- [the complexity of differential privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
-- [Repository of paper on Differential Privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
-
 - Differential privacy and application 
-    - [differential privacy and application](http://dro.deakin.edu.au/eserv/DU:30067556/zhu-differential-2014A.pdf)
-    - [Differential privacy and application Reading Notes](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20its%20application.pdf)
-
+  - [differential privacy and application](http://dro.deakin.edu.au/eserv/DU:30067556/zhu-differential-2014A.pdf)
+  - [Differential privacy and application Reading Notes](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20its%20application.pdf)
+- [The complexity of differential privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
 - [Differentially Private Data Publishing and Analysis: a Survey](https://ieeexplore.ieee.org/document/7911185)
+- [Repository of paper on Differential Privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
+- [Paper of Differential Privacy in CCS, S&P, NDSS, USENIX, Infocom](https://github.com/Billy1900/Awesome-Differential-Privacy/blob/master/paper-survey.md)
+
 ### 2.2 Course
 - [Seminar on differential privacy, Fall 19/20](http://www.cs.tau.ac.il/~haimk/privacy-seminar/main-page.html)
 - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
