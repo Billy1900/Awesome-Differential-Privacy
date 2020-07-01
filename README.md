@@ -30,6 +30,9 @@ Differential privacy learning and integration
 ### 2.3 some mechanisms
 - [Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds](https://arxiv.org/pdf/1605.02065.pdf)
 
+### 2.4 Differential Privacy in CCS, S&P, NDSS, USENIX, Infocom from 2015-2019 (some of them are from 2020)
+- [Survey](https://github.com/Billy1900/Awesome-Differential-Privacy/blob/d05b148f9fa8df8fb38fe77dd3270f9bc29e4147/paper-survey.md)
+
 ## 3. Video
   - [Recent Development in Differential Privacy II](https://www.youtube.com/watch?v=3EpNKI2l-20)
   - [Recent Development in Differential Privacy I](https://www.youtube.com/watch?v=pWUgFHkfOO0)
