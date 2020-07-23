@@ -53,3 +53,4 @@ Differential privacy learning and integration
 - [4.8 differential-privacy-federated-learning](https://github.com/gitgik/differential-privacy-federated-learning)
 - [4.9 PySyft: A library for encrypted, privacy preserving machine learning](https://github.com/OpenMined/PySyft)
 - [4.10 PyGrid: A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science](https://github.com/OpenMined/PyGrid/)
+- [4.11 PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy)
