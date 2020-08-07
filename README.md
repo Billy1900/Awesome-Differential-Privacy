@@ -21,7 +21,7 @@ Differential privacy learning and integration
 - [Differentially Private Data Publishing and Analysis: a Survey](https://ieeexplore.ieee.org/document/7911185)
 - [Repository of paper on Differential Privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
 - [Paper of Differential Privacy in CCS, S&P, NDSS, USENIX, Infocom](https://github.com/Billy1900/Awesome-Differential-Privacy/blob/master/paper-survey.md)
-
+- [SoK: Differential Privacies](https://arxiv.org/pdf/1906.01337.pdf)
 ### 2.2 Course
 - [Seminar on differential privacy, Fall 19/20](http://www.cs.tau.ac.il/~haimk/privacy-seminar/main-page.html)
 - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
