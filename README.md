@@ -27,6 +27,7 @@ Differential privacy learning and integration
 - [CSE 660 Fall 2017](http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html)
 - [cs295-data-privacy](https://github.com/jnear/cs295-data-privacy)  
 - [Privacy Study Group](https://uvasrg.github.io/privacy/)
+- [CS 860 - Algorithms for Private Data Analysis - Fall 2020](http://www.gautamkamath.com/CS860-fa2020.html)
 
 ### 2.3 some mechanisms
 - [Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds](https://arxiv.org/pdf/1605.02065.pdf)
