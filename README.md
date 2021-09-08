@@ -18,6 +18,7 @@ Differential privacy learning and integration
   - [differential privacy and application](http://dro.deakin.edu.au/eserv/DU:30067556/zhu-differential-2014A.pdf)
   - [Differential privacy and application Reading Notes](https://github.com/Billy1900/Differential-Privacy/blob/master/differential%20privacy%20and%20its%20application.pdf)
 - [The complexity of differential privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
+- [机器学习隐私保护研究综述-谭作文](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6052&year_id=2020&quarter_id=7&falg=1)
 - [Differentially Private Data Publishing and Analysis: a Survey](https://ieeexplore.ieee.org/document/7911185)
 - [Repository of paper on Differential Privacy](https://github.com/Billy1900/Differential-Privacy/blob/master/collection_of_papers.md)
 - [Paper of Differential Privacy in CCS, S&P, NDSS, USENIX, Infocom](https://github.com/Billy1900/Awesome-Differential-Privacy/blob/master/paper-survey.md)
