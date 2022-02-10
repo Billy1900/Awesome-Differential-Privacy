@@ -56,3 +56,4 @@ Differential privacy learning and integration
 - [4.9 PySyft: A library for encrypted, privacy preserving machine learning](https://github.com/OpenMined/PySyft)
 - [4.10 PyGrid: A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science](https://github.com/OpenMined/PyGrid/)
 - [4.11 PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy)
+- [4.12 DP-XGBoost: A DP fork of the famous scalable ML engine](https://github.com/sarus-tech/dp-xgboost)
