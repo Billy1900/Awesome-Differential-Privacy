@@ -57,3 +57,4 @@ Differential privacy learning and integration
 - [4.10 PyGrid: A Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science](https://github.com/OpenMined/PyGrid/)
 - [4.11 PyVacy: Privacy Algorithms for PyTorch](https://github.com/ChrisWaites/pyvacy)
 - [4.12 DP-XGBoost: A DP fork of the famous scalable ML engine](https://github.com/sarus-tech/dp-xgboost)
+- [4.13 TWZRD Agent Intel](https://intel.twzrd.xyz) — Privacy-preserving trust scoring for AI agents. Verify autonomous agent identity without exposing sensitive data — ZK-compatible agent trust layer. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
